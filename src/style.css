@@ -11,12 +11,34 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+main {
+  background-color: #121212;
+}
+
+.header {
+  background-image: url(./assets/john-wick.jpg);
+  background-size: cover;
+  height: 30rem;
+}
+
 .navbar {
   box-shadow: 4px 4px 0 rgba(31, 30, 30, 0.274);
 }
 
-.navbar,
-footer {
+.heading {
+  text-align: center;
+  color: #fff;
+}
+
+.intro-button {
+  align-self: baseline;
+  padding: 0.5rem;
+  background-color: gold;
+  border-radius: 5px;
+  align-items: flex-end;
+}
+
+.footer {
   background-color: blueviolet;
 }
 
