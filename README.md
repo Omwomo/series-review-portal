@@ -39,7 +39,7 @@
 <!-- INTRO -->
 # 📖 Hotflix Series Review Portal <a name="about-project"></a>
 
-> This is a Series Review Portal project for Movies and Series reviews.
+>  This is an interactive platform allowing users to explore, rate, and engage with their favorite TV shows. The 'Series Review Portal' empowers users to comment, like, and delve into comprehensive details for an enriched entertainment experience.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
@@ -73,7 +73,7 @@
 
 LIVE DEMO
 
-> Visit the [Live](https://anyars-encarta.github.io/Series-Review-Portal/dist/) page of the Project.
+> Visit the [Live](#) page of the Project.
 
 > Click this [link](https://drive.google.com/file/d/1DxSXsJfWHYL5gSP5Ph1Yg1qoA2o2eX9v/view?usp=sharing) to watch a short video on the features of the project.
 
