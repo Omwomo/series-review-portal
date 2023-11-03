@@ -73,9 +73,7 @@
 
 LIVE DEMO
 
-> Visit the [Live](#) page of the Project.
-
-> Click this [link](https://drive.google.com/file/d/1DxSXsJfWHYL5gSP5Ph1Yg1qoA2o2eX9v/view?usp=sharing) to watch a short video on the features of the project.
+> Visit the [N/A](#) page of the Project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,9 +86,14 @@ LIVE DEMO
 <!-- SETUP -->
 ### Setup
 
-To setup this project, run this command:
+To clone this project, run this command:
 
-```npm test
+```git clone https://github.com/Omwomo/series-review-portal.git
+```
+
+To  this project, run this command:
+
+```npm start
 ```
 ### Prerequisites
 
@@ -120,19 +123,17 @@ You can deploy this project using:
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Eugene Oduor Omwomo**
+
+- GitHub: [@Omwomo](https://github.com/Omwomo)
+- Twitter: [@eugeneoduor9](https://twitter.com/eugeneoduor9)
+- LinkedIn: [Eugene Oduor](https://linkedin.com/in/Omwomo)
 
 👤 **Anyars Yussif**
 
 - GitHub: [@anyars-encarta](https://github.com/anyars-encarta)
 - Twitter: [@anyarsencarta](https://twitter.com/anyarsencarta)
 - LinkedIn: [Anyars Yussif](https://www.linkedin.com/in/anyars-yussif-1a179769/)
-
-👤 **Eugene Oduor Omwomo**
-
-- GitHub: [@Omwomo](https://github.com/Omwomo)
-- Twitter: [@eugeneoduor9](https://twitter.com/eugeneoduor9)
-- LinkedIn: [Eugene Oduor](https://linkedin.com/in/Omwomo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
