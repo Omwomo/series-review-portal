@@ -88,12 +88,16 @@ LIVE DEMO
 
 To clone this project, run this command:
 
-```git clone https://github.com/Omwomo/series-review-portal.git
+```
+git clone https://github.com/Omwomo/series-review-portal.git
+
 ```
 
 To  this project, run this command:
 
-```npm start
+```
+npm start
+
 ```
 ### Prerequisites
 
