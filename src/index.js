@@ -16,6 +16,7 @@ const createShowElement = async (show) => {
   showElement.innerHTML = `
     <img class="image" src="${show.image.medium}" alt="${show.name}">
     <h3>${show.name}</h3>
+    <span>${show.rating.average}</span>
     <div class="interaction-icons">
       <div class="like">
         <p class="like-display"><span class="likes-count" data-item-id="${show.id}">${likes}</span></p>
